@@ -1,0 +1,43 @@
+ C 드라이브의 볼륨: Windows
+ 볼륨 일련 번호: FEC6-A5CF
+
+ C:\shop\images 디렉터리
+
+[.]                              [..]
+aa.txt                           americano01.png
+americano01_bigsize.png          americano02.png
+americano03.png                  americano04.jpg
+americano05.png                  brioche_01.png
+brioche_02.png                   brioche_03.png
+brioche_04.png                   brioche_04_bigsize.png
+brioche_05.png                   brioche_06.jpg
+brioche_07.png                   brioche_08.png
+cappuccino01.png                 cappuccino010.png
+cappuccino02.png                 cappuccino03.png
+cappuccino04.jpg                 cappuccino05.png
+cappuccino06.png                 chocolate_cake_01.png
+ciabatta_01.png                  ciabatta_02.png
+ciabatta_03.png                  ciabatta_04.png
+ciabatta_05.png                  ciabatta_06.png
+ciabatta_07.png                  ciabatta_08.png
+croissant_01.png                 croissant_02.png
+croissant_03.png                 croissant_03_bigsize.png
+croissant_04.png                 croissant_05.png
+croissant_06.png                 croissant_07.png
+croissant_08.png                 french_baguette_01.png
+french_baguette_01_bigsize.png   french_baguette_02.png
+french_baguette_03.png           juice01.png
+juice02.png                      macaron_01.png
+macaron_02.png                   macaron_03.png
+macaron_04.png                   milk01.jpg
+milk02.jpg                       red_wine_01.png
+red_wine_02.png                  red_wine_03.png
+scone_01.png                     scone_02.png
+scone_03.png                     scone_04.png
+sponge_cake_01.png               vanilla_latte_01.png
+vanilla_latte_02.png             vanilla_latte_03.png
+vanilla_latte_04.png             vanilla_latte_05.png
+white_wine_01.png                white_wine_01_bigsize.png
+white_wine_02.png                
+              69개 파일          23,142,729 바이트
+               2개 디렉터리  402,894,000,128 바이트 남음
